@@ -5,6 +5,6 @@ return {
     require('lualine').setup {
       theme = 'powerline'
     }
-  
+
   end
 }
